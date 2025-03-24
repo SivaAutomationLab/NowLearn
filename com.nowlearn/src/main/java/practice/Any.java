@@ -13,6 +13,7 @@ public class Any {
         int age = sc.nextInt();
         dob=year-age;
         System.out.println("Is your dob "+dob);
+        System.out.println("Jus checkin");
 
     }
 }
