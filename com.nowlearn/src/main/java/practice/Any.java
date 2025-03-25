@@ -13,7 +13,8 @@ public class Any {
         int age = sc.nextInt();
         dob=year-age;
         System.out.println("Is your dob "+dob);
-        System.out.println("Updating no");
+        System.out.println("Updating now here");
+        System.out.println("check 1");
 
     }
 }
