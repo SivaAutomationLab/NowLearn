@@ -1,6 +1,7 @@
 package practice;
 
 import java.util.Scanner;
+impor;
 
 public class Any {
     public static void main(String[] args) {
@@ -15,6 +16,7 @@ public class Any {
         System.out.println("Is your dob "+dob);
         System.out.println("Updating now here");
         //System.out.println("check 1");
+        System.out.println("check 2");
 
     }
 }
