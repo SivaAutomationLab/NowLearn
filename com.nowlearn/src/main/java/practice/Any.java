@@ -15,9 +15,10 @@ public class Any {
         dob=year-age;
         System.out.println("Is your dob "+dob);
         //Delete the below lines
-        System.out.println("Updating now here");
+
         //System.out.println("check 1");
         System.out.println("check 2");
+        
 
     }
 }
