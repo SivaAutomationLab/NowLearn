@@ -16,8 +16,6 @@ public class Any {
         System.out.println("Is your dob "+dob);
         //Delete the below lines
 
-        //System.out.println("check 1");
-        System.out.println("check 2");
         
 
     }
