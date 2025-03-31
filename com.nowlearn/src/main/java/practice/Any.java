@@ -1,7 +1,7 @@
 package practice;
 
 import java.util.Scanner;
-impor;
+
 
 public class Any {
     public static void main(String[] args) {
